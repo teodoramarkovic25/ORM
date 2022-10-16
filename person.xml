@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="model.Person">
+    <void property="age">
+     <int>23</int>
+    </void>
+    <void property="name">
+     <string>Teodora</string>
+    </void>
+    <void property="nin">
+     <string>1333</string>
+    </void>
+    <void property="surname">
+     <string>Marković</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Person">
+    <void property="age">
+     <int>14</int>
+    </void>
+    <void property="name">
+     <string>Semra</string>
+    </void>
+    <void property="nin">
+     <string>13336</string>
+    </void>
+    <void property="surname">
+     <string>Minic</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Person">
+    <void property="age">
+     <int>24</int>
+    </void>
+    <void property="name">
+     <string>Bilal</string>
+    </void>
+    <void property="nin">
+     <string>55</string>
+    </void>
+    <void property="surname">
+     <string>Hujdurevic</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Person">
+    <void property="age">
+     <int>57</int>
+    </void>
+    <void property="name">
+     <string>Bilal</string>
+    </void>
+    <void property="nin">
+     <string>13354</string>
+    </void>
+    <void property="surname">
+     <string>Sporisevic</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Person">
+    <void property="age">
+     <int>23</int>
+    </void>
+    <void property="name">
+     <string>Nedim</string>
+    </void>
+    <void property="nin">
+     <string>5555</string>
+    </void>
+    <void property="surname">
+     <string>Cimic</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
